@@ -7,3 +7,11 @@ Will release higher versions in the coming weeks.
 openweather: <https://openweathermap.org/api>
 
 Copy-paste the api-key to the Weather_App1.1.py file and run it.
+
+Libraries Used:
+
+1. Tkinter
+
+2. Requests
+
+3. Json
