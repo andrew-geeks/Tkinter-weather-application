@@ -3,7 +3,7 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
 from tkinter import simpledialog
-api_key = "5465904488dd91467077cb1010b2ea07"
+api_key = ""
 def credits():
     cred=Toplevel()
     cred.geometry('300x170')
