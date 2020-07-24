@@ -1,4 +1,4 @@
-# Arcus Weather Application
+# Tkinter Weather Application
 Weather application in tkinter(python) by openweathermap
 An application built in tkinter(Python) with the help of openweather map.
 To get started, sign up to openweathermap and get your api key.
