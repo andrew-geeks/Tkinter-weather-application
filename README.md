@@ -8,7 +8,7 @@ Watch the video for this project: <https://youtu.be/Y6FugQukHZ0>
 
 openweather: <https://openweathermap.org/api>
 
-Copy-paste the api-key to the Weather_App1.1.py file and run it.
+Copy-paste the api-key to the  main file and run it.
 
 Libraries Used:
 
@@ -17,3 +17,7 @@ Libraries Used:
 2. Requests
 
 3. Json
+
+# NOTE: THIS REPOSITORY HAS BEEN DEPRECIATED AND A NEW VERSION(2.0) HAS BEEN STARTED IN A NEW ONE.
+
+NEW REPOSITORY:
